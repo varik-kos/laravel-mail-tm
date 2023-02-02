@@ -1,5 +1,6 @@
 {
     "name": "valery/laravel-mail-tm",
+    "description": "Laravel package for creating temporary email accounts - Mail.tm",
     "type": "library",
     "require": {
         "php": "^8.0|^8.1",
