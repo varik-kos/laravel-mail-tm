@@ -1,0 +1,21 @@
+{
+    "name": "valery/laravel-mail-tm",
+    "type": "library",
+    "require": {
+        "php": "^8.0|^8.1",
+        "guzzlehttp/guzzle": "7.5.x-dev",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Valery\\LaravelMailTm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valery",
+            "email": "magvai75@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
