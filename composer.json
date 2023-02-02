@@ -1,7 +1,10 @@
 {
     "name": "valery/laravel-mail-tm",
     "description": "Laravel package for creating temporary email accounts - Mail.tm",
+    "homepage": "https://github.com/varik-kos/laravel-mail-tm",
+    "keywords": ["mailtm"],
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.0|^8.1",
         "guzzlehttp/guzzle": "^7.5.0",
