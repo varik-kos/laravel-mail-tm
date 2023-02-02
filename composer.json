@@ -21,5 +21,15 @@
             "email": "magvai75@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Valery\\LaravelMailTm\\MailTmServiceProvider"
+            ],
+            "aliases": {
+                "MailTm": "Valery\\LaravelMailTm\\MailTmFacade"
+            }
+        }
+    }
 }
